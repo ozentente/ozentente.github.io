@@ -1,0 +1,2 @@
+# ornek.github.io
+deneme
